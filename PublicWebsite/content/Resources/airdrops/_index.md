@@ -87,8 +87,8 @@ Gaming
  
 ### CADEOS
 
- * __Account Contract Address:__ ??
- * __Symbol:__ ??
+ * __Account Contract Address:__ cadeosio1plm
+ * __Symbol:__ ADE
  * __Ratio:__ 1 for 5
  * __Airdrop Supply:__ 200,000,000
  * __Total Supply:__ 1,000,000,000
