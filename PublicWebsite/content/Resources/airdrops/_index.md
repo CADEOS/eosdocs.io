@@ -87,8 +87,8 @@ Gaming
  
 ### CADEOS
 
- * __Account Contract Address:__ ??
- * __Symbol:__ ??
+ * __Account Contract Address:__ EOS5GpNA4pwuNX4C29E47bZtdcnCcvpudhGA47Z84A1ZrZUn78C9j
+ * __Symbol:__ ADE
  * __Ratio:__ 1 for 5
  * __Airdrop Supply:__ 200,000,000
  * __Total Supply:__ 1,000,000,000
